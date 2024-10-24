@@ -10,3 +10,4 @@ The tutorial is presented on [GH pages, here.](https://vcu-ssg.github.io/ssg-qua
 *./site* - contains the code for the website and tutorial. We use [quarto](https://quarto.org/docs/websites/) to manage the site.
 
 *./docs* - this folder is used by gh-pages and quarto. Generally stay away from this folder.
+
